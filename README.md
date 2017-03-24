@@ -1,7 +1,7 @@
 
 # Food Delivery Company
 ### **Getting started**
-###Technologies Used
+### Technologies Used
 #### HTML5, CSS3, jQuery, Media Queries
  - Run :  `git clone https://github.com/getwebem/omnifoods.git`
  - Run :  `cd omnifoods`
