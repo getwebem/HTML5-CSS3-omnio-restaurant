@@ -1,6 +1,5 @@
 
 # Omnio Foods
-### **Getting started**
 ### Technologies Used
 #### HTML5, CSS3, jQuery, Media Queries
  - Run :  `git clone https://github.com/getwebem/omnifoods.git`
